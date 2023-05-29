@@ -1,6 +1,8 @@
 # hospital-project
 This is our Hospital Management System Project, 
 The details of this project is shown in below pictures, Go through it,
+
+
 <img width="920" alt="Screenshot 2023-05-29 194700" src="https://github.com/JaveedHussain-tech/hospital-project/assets/134697774/21eec411-1502-4ea8-aafa-65c141305a12">
 <img width="920" alt="Screenshot 2023-05-29 194736" src="https://github.com/JaveedHussain-tech/hospital-project/assets/134697774/ca754ef7-68ad-4e72-ab83-55b36f1cf7b7">
 <img width="921" alt="Screenshot 2023-05-29 194753" src="https://github.com/JaveedHussain-tech/hospital-project/assets/134697774/56e369e9-c9ce-4706-a68f-11b6a338a2bf">
